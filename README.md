@@ -1,9 +1,7 @@
 **Marianne Kuhl**
 
-⚛️ Physics undergraduate student at Lund University<br/>
-📍 Currently in Sweden<br/>
-🚀 Future in quantum computing<br/>
-🌎 International background<br/>
+🚀 Physics undergraduate student at Lund University<br/>
+⚛️ Quantum Computing intern at PALO IT
 
 
 ## 🌐 Socials:
