@@ -1,7 +1,6 @@
 **Marianne Kuhl**
 
-🚀 Physics undergraduate student at Lund University<br/>
-⚛️ Quantum Computing intern at PALO IT
+I'm a third-year physics undergraduate student at Lund University. I am interested in quantum computing especially after completing my quantum computing internship with PALO IT, see my quantum-internship repo to learn more. I aim to learn more about and improve my skills in QC and programming!
 
 
 ## 🌐 Socials:
